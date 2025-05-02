@@ -1,0 +1,9 @@
+euriai
+langchain_community 
+langchain 
+langchain_core 
+langchain-huggingface
+#langchain_openai 
+#langchain_text_splitters 
+bs4
+chroma
